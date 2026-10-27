@@ -1,7 +1,3 @@
-__pycache__/
-*.pyc
-.venv/
-venv/
-.env
-.streamlit/secrets.toml
-api_run_results.*
+streamlit
+pandas
+requests
